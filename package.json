@@ -1,0 +1,10 @@
+{
+  "name": "MrsSumisa",
+  "version": "2.0.0",
+  "description": "Bot para servidor BDSM",
+  "main": "bot.js",
+  "author": "MasterAOP",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}

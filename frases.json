@@ -1,0 +1,57 @@
+{
+   "proverbios":{
+		"num":30,
+		"frases":[
+			"Si un problema tiene solución, no hace falta preocuparse. Si no tiene solución, preocuparse no sirve de nada.",
+			"Sólo nadando contra corriente es posible alcanzar la fuente.",
+			"Si eres paciente en un momento de ira, escaparás a cien días de tristeza.",
+			"Si me das pescado, comeré hoy; si me enseñas a pescar, podré comer mañana.",
+			"Si no quieres que se sepa, no lo hagas.",
+			"Un copo de nieve nunca cae en el lugar equivocado.",
+			"Un viaje de diez mil kilómetros empieza por un solo paso.",
+			"Vive cada día de tu vida como si fuera el último... un día acertarás.",
+			"Disfruta solo los placeres del momento.",
+			"El amor no se mendiga, se merece.",
+			"Busca una luz en lugar de estar maldiciendo eternamente la oscuridad.",
+			"Cuando el dinero habla, la verdad calla.",
+			"Cuando llegues a la última página, cierra el libro.",
+			"Cuando el genio apunta a la Luna, el tonto se queda mirando al dedo.",
+			"Cuando te inunde una enorme alegría, no prometas nada a nadie. Cuando te domine un gran enojo, no contestes ninguna carta.",
+			"El agua demasiado pura no tiene peces.",
+			"El agua hace flotar el barco, pero también puede hundirlo.",
+			"El hombre que no sabe sonreír no debe abrir la tienda.",
+			"El que comete un mal y tiene temor de que se sepa, posee todavía una semilla de bueno dentro de su maldad; pero el que hace un bien y está ansioso de que se enteren, tiene todavía una raíz de mal en su bondad.",
+			"El que ha desplazado la montaña es el que comenzó por quitar las pequeñas piedras.",
+			"El que teme sufrir, sufre de temor.",
+			"El sabio no dice lo que sabe y el necio no sabe lo que dice.",
+			"Es más fácil saber como se hace una cosa que hacerla.",
+			"Es mejor encender una vela que maldecir la oscuridad.",
+			"Es mejor volverse atrás que perderse en el camino.",
+			"Incluso las torres más altas empiezan en el suelo.",
+			"La sabiduría consiste en saber que se sabe lo que se sabe y saber que no se sabe lo que no se sabe.",
+			"Nadie se baña dos veces en el mismo río, pues siempre es otro río y otra persona.",
+			"No se puede caminar contemplando las estrellas cuando se tiene una piedra en el zapato.",
+			"Nunca mates una mosca sobre la cabeza de un tigre."
+		]
+	},
+	"saludos":{
+		"num":5,
+		"frases":[
+			"Hola Am@",
+			"Saludos Am@",
+			"Me alegra verle Amo@",
+			"Mr. Esclavo a su servicio Am@",
+			"Sus deseos son órdenes para mi, Am@"
+		]
+	},
+	"castigos":{
+		"num":5,
+		"frases":[
+					"Ouch!! No lo volveré a hacer ",
+					"Aaay!! Gracias ",
+					"Nnnngh!! Me lo merecía ",
+					"Ufff!! Este perro ha sido malo ",
+					"Yikes!! Soy un perro desobediente "
+		]
+	}
+}
